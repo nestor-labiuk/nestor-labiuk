@@ -24,10 +24,6 @@ Habilidades:  JS / HTML / CSS / Bootstrap
 - 📫 Cómo contactarme: nestorlabiuk@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]([https://github.com/https://github.com/nestor-labiuk](https://github.com/nestor-labiuk))  
-
-
-
 
 
 
