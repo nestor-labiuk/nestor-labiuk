@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hola 👋, Mi nombre es Néstor 
+#### Soy estudiante fullStack
+![Soy estudiante fullStack](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Actualmente estoy estudiando en Rolling Code Scholl
+
+Habilidades:  JS / HTML / CSS / Bootstrap
+
+- 🔭 Estoy trabajando en Proyectos de Rolling Code School 
+
+
+
+
