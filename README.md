@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hola, Mi nombre es Néstor 
+### Hola 👋, Mi nombre es Néstor 
 #### Soy estudiante fullStack
 
 Actualmente estoy estudiando en Rolling Code Scholl
@@ -21,6 +21,12 @@ Actualmente estoy estudiando en Rolling Code Scholl
 Habilidades:  JS / HTML / CSS / Bootstrap
 
 - 🔭 Estoy trabajando en Proyectos de Rolling Code School 
+- 📫 Cómo contactarme: nestorlabiuk@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nestor-labiuk)  
+
+
 
 
 
