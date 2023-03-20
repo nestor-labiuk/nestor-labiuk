@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Actualmente estoy estudiando en Rolling Code Scholl
 
-Habilidades:  JS / HTML / CSS / Bootstrap
+Habilidades:  JS / HTML / CSS / Bootstrap / React
 
 - 🔭 Estoy trabajando en Proyectos de Rolling Code School 
 - 📫 Cómo contactarme: nestorlabiuk@gmail.com 
