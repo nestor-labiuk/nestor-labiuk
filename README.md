@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hola 👋, Mi nombre es Néstor 
-#### Soy estudiante fullStack
+#### Desarrolador fullStack Jr.
 
 Actualmente estoy estudiando en Rolling Code Scholl
 
