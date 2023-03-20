@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hola 👋, Mi nombre es Néstor 
-#### Desarrolador fullStack Jr.
+## Mi nombre es Néstor 
+### Desarrolador fullStack Jr.
 
 Actualmente estoy estudiando en Rolling Code Scholl
 
